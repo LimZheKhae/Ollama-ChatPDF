@@ -1,0 +1,15 @@
+ollama
+streamlit
+langchain
+langchain-core
+langchain-ollama
+langchain_community
+langchain_text_splitters
+streamlit_pdf_viewer
+unstructured
+unstructured[all-docs]
+onnx==1.17.0
+protobuf==3.20.3
+chromadb
+Pillow
+numpy
